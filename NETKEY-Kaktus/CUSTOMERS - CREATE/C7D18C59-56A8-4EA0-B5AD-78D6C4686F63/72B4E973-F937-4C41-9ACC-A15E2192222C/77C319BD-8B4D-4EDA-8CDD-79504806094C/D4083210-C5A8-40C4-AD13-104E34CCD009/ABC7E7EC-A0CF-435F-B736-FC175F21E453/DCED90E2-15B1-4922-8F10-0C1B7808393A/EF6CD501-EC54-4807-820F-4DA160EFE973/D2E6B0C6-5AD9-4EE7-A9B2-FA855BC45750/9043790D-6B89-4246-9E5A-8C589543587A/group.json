@@ -1,0 +1,129 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9043790D-6B89-4246-9E5A-8C589543587A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 182,
+    "width": 307,
+    "x": 0,
+    "y": 201
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B7EFAA0B-13AE-4616-AC45-AF1B473F61F0"
+    },
+    {
+      "class": "group",
+      "id": "0CF3E4F6-0550-4A5A-8461-59DB071C9009"
+    }
+  ],
+  "name": "Padding Group 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "2A2EF3B2-ECCA-41E5-98F9-AAD574DF3AC8",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "padding": {
+          "bottom": 0,
+          "left": 0,
+          "modelID": "viewPadding_6079830c-12f6-4739-a353-b3eeabd672bf",
+          "model_class": "ADModelViewPadding",
+          "model_version": 0,
+          "right": 0,
+          "top": 10
+        },
+        "stashedSizeH": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_162c4314-c7da-4887-851d-31c645170b83",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_f993a574-7384-49fe-925e-53bafe9d831e",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.345098,
+            "green": 0.345098,
+            "red": 0.345098
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SourceSansPro-Regular",
+              "size": 15
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "paragraphSpacing": 1
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 93,
+        "location": 0
+      }
+    ],
+    "string": "Some keychain, Another keychain, Someanother, One More keychain, Keychain One, Morekeychains "
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3F3D23B4-9867-49BB-9C37-18C809EFEF0B",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 38,
+    "width": 475,
+    "x": 0,
+    "y": 20
+  },
+  "glyphBounds": "{{0, 4}, {435, 34}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Some keychain, Anoth",
+  "nameIsFixed": false,
+  "resizingConstraint": 31,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "364CB6D2-402A-4B66-A4DA-8B84BF26338C",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.345098,
+          "green": 0.345098,
+          "red": 0.345098
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SourceSansPro-Regular",
+            "size": 15
+          }
+        },
+        "MSAttributedStringTextTransformAttribute": 0,
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "paragraphSpacing": 1
+        },
+        "strikethroughStyle": 0,
+        "underlineStyle": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0,
+        "stashedSizeH": [
+          {
+            "constant": 475,
+            "enabled": 0,
+            "modelID": "constraint_ef8e5d16-48b5-4722-9ed8-6f149a43f0c2",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          },
+          {
+            "constant": 38,
+            "enabled": 0,
+            "modelID": "constraint_3a0856a4-cb01-439f-93f4-eae8523051bb",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          }
+        ],
+        "stashedSizeV": [
+          {
+            "constant": 89,
+            "enabled": 0,
+            "modelID": "constraint_ef8e5d16-48b5-4722-9ed8-6f149a43f0c2",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          },
+          {
+            "constant": 38,
+            "enabled": 0,
+            "modelID": "constraint_3a0856a4-cb01-439f-93f4-eae8523051bb",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          }
+        ]
+      }
+    },
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "name",
+        "title": "Both"
+      }
+    },
+    "com.precious-forever.sketch.datapopulator": {
+      "originalText": "{address}"
+    },
+    "datasupplier.key": "~/Documents/odesk/_sketch-data/company-names.txt"
+  }
+}

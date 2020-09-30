@@ -1,0 +1,144 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B534B84E-74C2-4D00-8B67-54F9C3FEFE46",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1353,
+    "width": 192,
+    "x": 0,
+    "y": 109
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "07F01E84-D8D0-4DC6-ABEC-F35F38B353A3"
+    },
+    {
+      "class": "rectangle",
+      "id": "2628C3D5-2031-4CA3-B240-1EA6EEE3445E"
+    },
+    {
+      "class": "rectangle",
+      "id": "1124C664-127A-4A42-8AE0-3FB729833FC8"
+    },
+    {
+      "class": "group",
+      "id": "2F51331B-EC28-4202-AEC6-423020F127CD"
+    }
+  ],
+  "name": "Left Tabs Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "CE4AF4FB-11F8-48B1-83DF-5567B33308D2",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "547CBB10-9239-41C3-A79B-5806856557E8",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 1353,
+          "width": 192,
+          "x": 0,
+          "y": 109
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "BD44C09C-8AB3-4E5E-A048-DB002FF04982",
+        "symbolID": "7DEEC891-F3D7-4697-8E80-D4AAE72DF790"
+      }
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "547CBB10-9239-41C3-A79B-5806856557E8",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 1353,
+          "width": 192,
+          "x": 0,
+          "y": 109
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "BD44C09C-8AB3-4E5E-A048-DB002FF04982",
+        "symbolID": "7DEEC891-F3D7-4697-8E80-D4AAE72DF790"
+      }
+    }
+  }
+}

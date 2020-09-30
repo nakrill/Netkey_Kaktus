@@ -1,0 +1,140 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AD93E966-AC49-405A-A081-F8AE58F4EA12",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 971,
+    "x": 0,
+    "y": 304
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A5EAAEB9-FDFE-4BFA-B4EB-36D29736C656"
+    },
+    {
+      "class": "rectangle",
+      "id": "0457E568-2D48-4CE6-89AE-53B5B6A6ECED"
+    },
+    {
+      "class": "group",
+      "id": "1850A8A4-3658-400E-A9E6-A1CECACB6741"
+    },
+    {
+      "class": "group",
+      "id": "A249BAA7-2083-4044-B790-2131795FA084"
+    }
+  ],
+  "name": "users/table copy 8",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "A8DB3C70-1E74-47A3-A54B-69F5D8E61B0D",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "00EF822A-0C70-4E80-A1FD-86AA79734975",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 40,
+          "width": 971,
+          "x": 0,
+          "y": 304
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "14B14DC0-10D2-4302-B4FA-6B07D9D64EB9",
+        "symbolID": "8AFC35CE-9026-4A72-ABD9-34EE3D240D82"
+      }
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "00EF822A-0C70-4E80-A1FD-86AA79734975",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 40,
+          "width": 971,
+          "x": 0,
+          "y": 304
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "14B14DC0-10D2-4302-B4FA-6B07D9D64EB9",
+        "symbolID": "8AFC35CE-9026-4A72-ABD9-34EE3D240D82"
+      }
+    }
+  }
+}

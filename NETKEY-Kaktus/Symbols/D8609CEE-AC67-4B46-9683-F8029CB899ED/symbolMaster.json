@@ -1,0 +1,187 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 1364,
+  "clippingMaskMode": 0,
+  "do_objectID": "D8609CEE-AC67-4B46-9683-F8029CB899ED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 1036,
+    "x": 11786,
+    "y": 1338
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "71A15378-6C34-485B-ADF7-45EF005801B6"
+    },
+    {
+      "class": "rectangle",
+      "id": "8ADD70C6-0BD0-4C4E-99B0-F08B27F6DB48"
+    },
+    {
+      "class": "text",
+      "id": "B4EFBA33-0E70-42E2-AC91-5F2E22861D30"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "17998AA8-E1D0-4DAE-9E70-F22D79201767"
+    },
+    {
+      "class": "text",
+      "id": "3E841DC4-3F0F-4DF8-AF4D-20B07A75978D"
+    },
+    {
+      "class": "text",
+      "id": "085C0806-C179-4E64-8902-38BAFB541256"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "671A77F3-5956-4809-B866-AE4CB61A0717"
+    },
+    {
+      "class": "text",
+      "id": "21E21D8C-4310-458F-92FD-F9D161E3CD4D"
+    }
+  ],
+  "name": "addresses/search-01 view logs copy",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "671A77F3-5956-4809-B866-AE4CB61A0717_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "21E21D8C-4310-458F-92FD-F9D161E3CD4D_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "17998AA8-E1D0-4DAE-9E70-F22D79201767_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8ADD70C6-0BD0-4C4E-99B0-F08B27F6DB48_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3E841DC4-3F0F-4DF8-AF4D-20B07A75978D_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B4EFBA33-0E70-42E2-AC91-5F2E22861D30_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "085C0806-C179-4E64-8902-38BAFB541256_stringValue"
+    }
+  ],
+  "presetDictionary": {
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "D4290F5C-4CD4-420A-A0E9-998769EAF005",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0433AD95-1858-4EAB-8B6A-79FA99C9F844",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
